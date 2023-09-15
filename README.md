@@ -1,4 +1,4 @@
-# Имеются
+# Содержимое
 1. index.php - точка входа
 2. json.php - json из примера
 3. composer.json - настроенный composer autoload
