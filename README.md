@@ -2,7 +2,7 @@
 1. index.php - точка входа
 2. json.php - json из примера
 3. composer.json - настроенный composer autoload
-4. class/Convertor - папка с классом Convertor
+4. class/Convertor.php - папка с файлом Convertor
 
 # Установка
 1. Скачать
